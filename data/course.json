@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ]
+  ],
+  "legacy_uid": "ff51301e-23d9-e2da-ffeb-7ae7b164a1fb",
+  "instructors": {
+    "content": [
+      "390ca2d0-3f9b-2968-14d2-b2e32bc7f62d",
+      "a3082410-9898-e73b-f520-572a33c853c7",
+      "47018e26-4cba-b02b-e293-d7dace64e90a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "14ba7a0a-27e3-cfaa-d9c2-039663d36919",
+    "website": "pe-920-pe-for-me-spring-2005"
+  },
+  "course_title": "PE for ME",
+  "hide_download": true,
+  "course_description": "The sensing, thinking, moving body is the basis of our experience in the world; it is the very foundation on which cognitive intelligence is built. Physical Intelligence, then, is the inherent ability of the human organism to function in extraordinary accord with its physical environment. This class--a joint offering from the Department of Athletics, Physical Education and Recreation (DAPER) and Department of Mechanical Engineering (ME) for both PE and academic credit--uses the MIT gymnastics gym as a laboratory to explore Physical Intelligence as applied to Mechanical Engineering and design. Readings, discussions and experiential learning introduce various dimensions of Physical Intelligence which students then apply to the design of innovative exercise equipment.\n",
+  "department_numbers": [
+    "PE"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "PE.920",
+  "course_image_thumbnail": {
+    "content": "846008e5-c891-0ce3-e54e-101dd4aaf7ee",
+    "website": "pe-920-pe-for-me-spring-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "site_uid": "42ee31fd-8581-439c-8cd2-45847f1330fc",
+  "site_short_id": "pe.920-spring-2005",
+  "site_url_path": "courses/pe-920-pe-for-me-spring-2005",
+  "title": "Course Metadata"
+}
